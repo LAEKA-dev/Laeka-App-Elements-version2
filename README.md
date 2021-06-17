@@ -1,5 +1,9 @@
 # Laeka App
+Laeka est une Blockchain Elements lancée comme sidechain et liée à la Blockchain principale “Bitcoin”, Le réseau privé de la sidechain se construit de différents nœuds consistants les parties prenantes du bien-être animal : propriétaires d’animaux de compagnie, vétérinaires et associations
 
+
+## Application Workflow Diagram
+![Workflow](https://github.com/LAEKA-dev/Laeka-App-Elements-version2/blob/master/img/Global%20Diagram.png)
 
 Elements Project blockchain platform
 ====================================
